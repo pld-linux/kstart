@@ -5,7 +5,7 @@
 Summary:	Obtain and optionally keep active a Kerberos v5 ticket
 Name:		kstart
 Version:	3.16
-Release:	0.1
+Release:	1
 License:	MIT
 Group:		Applications
 Source0:	http://archives.eyrie.org/software/kerberos/%{name}-%{version}.tar.gz
