@@ -33,7 +33,8 @@ to obtain tickets and AFS tokens with a single command.
 
 %build
 %configure \
-	--disable-k4start
+	--disable-k4start \
+	--enable-setpag
 
 %{__make}
 
